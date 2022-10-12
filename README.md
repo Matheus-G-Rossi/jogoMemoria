@@ -1,4 +1,7 @@
-Projeto do curso ProgramadorBR
+<h2>Projeto do curso ProgramadorBR</h2>
 <br>
 <br>
-Nesse projeto pude desenvolver melhor meu <h1>javascript</h1> e tirar dúvidas de sua utilização pratica. Também fiz o <h2>desafio</h2> de implementar sozinho um contador de movimentos.
+<h2>O que aprendi com esse projeto</h2>
+Com esse projeto consegui desenvolver melhor minha logica na utilização pratica do <strong>javascript</strong>.
+<h2>Desafio</h2>
+Como sugerido pelo professor, implementei sozinho um contador  de clicks, que não tinha no projeto do curso.
